@@ -11,7 +11,7 @@ library(fs)        # Working with File System
 library(xopen)     # Quickly opening URLs
 
 
-# 2.0 COLLECT PRODUCT FAMILIES ----
+# 2.0 COLLECT PRODUCT FAMILIES -----
 # - GOAL: Get NIDs for each of the Product Families
 # - WEBSCRAPING NOT IMPLEMENTED HERE
 # - WHY? ONLY 17 CATEGORIES - MANUAL ENTRY IS SIMPLER
@@ -85,7 +85,7 @@ bike_category_nids_tbl
 
 
 
-# 3.0 WEB SCRAPE PRODUCT FAMILY PAGE ----
+# 3.0 WEB SCRAPE PRODUCT FAMILY PAGE -----
 # - GOAL: Get Product ID's from Product Category NID Pages
 
 
